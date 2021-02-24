@@ -4,7 +4,7 @@
 # Rodrigo Bezerra
 
 ## Fala aí, beleza? 👋
-Sou apaixonado por tecnologia e resolver problemas utilizando a programação.
+Sou apaixonado por tecnologia e criar interfaces e programas utilizando a programação.
 Sou desenvolvedor front-end com background em UI Design :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **DSF** como Desennvolvedor Front-end e UI|UX Designer.
