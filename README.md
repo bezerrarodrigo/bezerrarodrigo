@@ -1,4 +1,4 @@
-<img width="auto" src="https://thumbs.dreamstime.com/b/front-end-development-vector-concept-laptop-javascript-html-code-window-header-footer-banner-template-modern-172373798.jpg">
+<img width="auto" src="https://developer.sabre.com/sites/default/files/2019-10/Picture4-1-1024x242_3.png">
 
 
 # Rodrigo Bezerra
