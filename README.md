@@ -13,7 +13,7 @@ Sou um FullStack Developer :computer:
  <br/> :computer: &nbsp; Minha stack: ReactJS, React Native & Typescript
  <br/> :memo: &nbsp; Estudando: Context API, Redux, TailwindCSS & GraphQL
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, gadgets, games como The Witcher, Legend of Zelda e todos de Hideo Kojima.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-bezerra-ba9692128/)](https://www.linkedin.com/in/rodrigo-bezerra-ba9692128/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RdorigoBezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-bezerra-ba9692128/)](https://www.linkedin.com/in/rodrigo-bezerra-ba9692128/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bezerra.rodrigo@gmail.com)](mailto:bezerra.rodrigo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-bezerra.rodrigo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bezerra.rodrigo@gmail.com)](mailto:bezerra.rodrigo@gmail.com)
 
