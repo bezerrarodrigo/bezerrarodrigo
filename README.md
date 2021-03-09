@@ -7,7 +7,7 @@
 Sou apaixonado por tecnologia e criar interfaces e programas utilizando a programação.
 Sou desenvolvedor front-end com background em UI Design :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **DSF** como Desennvolvedor Front-end e UI|UX Designer.
+ :rocket:  &nbsp; Estou trabalhando como Desennvolvedor Front-end e UI|UX Designer.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Vuejs
  <br/> :blush: &nbsp; Posso te ajudar com React, css-modules, css-in-js(styled-components) e Next.js
  <br/> :computer: &nbsp; Minha stack: ReactJS, React Native & Typescript
