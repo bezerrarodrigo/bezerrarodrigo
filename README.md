@@ -5,7 +5,7 @@
 
 ## Fala aí, beleza? 👋
 Sou apaixonado por tecnologia e criar interfaces e programas utilizando a programação.
-Sou desenvolvedor front-end com background em UI Design :computer:
+Sou desenvolvedor front-end com background em UI Design. :computer: I design and code 💪
 
  :rocket:  &nbsp; Estou trabalhando como Desennvolvedor Front-end e UI|UX Designer.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Vuejs
