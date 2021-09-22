@@ -8,8 +8,8 @@ Sou apaixonado por tecnologia e criar interfaces e programas utilizando a progra
 Sou desenvolvedor front-end com background em UI Design. I design and code! 💪
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bezerrarodrigo&show_icons=true&theme=vue "/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezerrarodrigo&layout=compact&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bezerrarodrigo&show_icons=true&theme=dark "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezerrarodrigo&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br/>
