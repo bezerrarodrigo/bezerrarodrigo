@@ -3,14 +3,14 @@
 
 # Rodrigo Bezerra
 
-## Fala aí, beleza? 👋
-Sou apaixonado por tecnologia e criar interfaces e programas utilizando a programação.
-Sou desenvolvedor front-end com background em UI Design. I design and code! 💪
+## What's up, folks!? 👋
+I am passionate about technology and creating interfaces and programs using programming.
+I'm a front-end developer with a UI Design background. I design and code! 💪
 
-<!--<div>
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bezerrarodrigo&show_icons=true&theme=dark "/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezerrarodrigo&layout=compact&theme=dark"/>
-</div>-->
+</div>
 
 <div style="display: inline_block"><br/>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -28,13 +28,13 @@ Sou desenvolvedor front-end com background em UI Design. I design and code! 💪
 
 <br/>
 
- :rocket:  &nbsp; Estou trabalhando como Desennvolvedor Front-end e UI Designer.
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Vuejs
- <br/> :blush: &nbsp; Posso te ajudar com React, css-modules, css-in-js(styled-components) e Next.js
- <br/> :computer: &nbsp; Minha stack: ReactJS, React Native & Typescript
- <br/> :memo: &nbsp; Estudando: Context API, Redux, TailwindCSS & GraphQL
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, gadgets, games como The Witcher, Legend of Zelda e todos de Hideo Kojima.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoBezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-bezerra-ba9692128/)](https://www.linkedin.com/in/rodrigo-bezerra-ba9692128/) 
+ :rocket:  &nbsp; I am working as Frontend Developer in ReactJS and UI Designer.
+ <br/> :purple_heart: &nbsp; Looking to collaborate on Front-end projects using React and Vuejs
+ <br/> :blush: &nbsp; I can help you with React, css-modules, css-in-js(styled-components) and Next.js
+ <br/> :computer: &nbsp; My stack: ReactJS, React Native & Typescript
+ <br/> :memo: &nbsp; Studying: Context API, Redux, TailwindCSS & GraphQL
+ <br/> 💬  &nbsp;About me: I like technologies, gadgets, games like The Witcher, Legend of Zelda and all of Hideo Kojima.
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoBezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-bezerra-ba9692128/)](https://www.linkedin.com/in/rodrigo-bezerra-ba9692128/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-bezerra.rodrigo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bezerra.rodrigo@gmail.com)](mailto:bezerra.rodrigo@gmail.com)
 
