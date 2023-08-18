@@ -3,7 +3,7 @@
 ## What's up, folks!? 👋
 
 I am passionate about technology and creating interfaces and programs using programming.
-I'm a front-end developer with a UI Design background. I design and code! 💪
+I'm a front-end developer with a UI Design background. I design and code!💪
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bezerrarodrigo&show_icons=true&theme=dark" alt="Vercel stats"/>
