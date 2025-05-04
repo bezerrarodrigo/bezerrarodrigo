@@ -15,10 +15,10 @@ I'm a front-end developer with a UI Design background. I design and code!💪
   <img alt=" brand logo" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
    <img alt=" brand logo" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
    <img alt=" brand logo" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt=" brand logo" height="20" src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.944c5d0ef628083bb316f9b3d643385c86bcdb3d.svg" />
+  <img alt=" brand logo" height="20" src="https://www.cdnlogo.com/logos/t/34/tailwind-css.svg" />
   <img alt=" brand logo" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img alt=" brand logo" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img height="45" src="https://www.nicepng.com/png/detail/23-234867_firebase-vertical-lockup-logo-firebase-logo-firebase.png" alt="Firebase Vertical Lockup Logo - Firebase Logo Firebase@nicepng.com" />
+  <img alt=" brand logo" height="45" src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" />
+  <img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFs7mx6b1e4Y2farjg6wO8s5FulJb8RNcpaQ&s" alt="Prisma Logo" />
 </div>
 
 <br/>
