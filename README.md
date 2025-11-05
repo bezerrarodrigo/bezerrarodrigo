@@ -27,7 +27,7 @@ I'm a front-end developer with a UI Design background. I design and code!💪
 <br/> :purple_heart: &nbsp; Looking to collaborate on Front-end projects using React and Vue.js
 <br/> :blush: &nbsp; I can help you with React, css-in-js(styled-components) and Next.js
 <br/> :computer: &nbsp; My stack: ReactJS, React Native & Typescript
-<br/> :memo: &nbsp; Studying: Context API, Redux, Next.js(SSR, SSG and Server Components), TailwindCSS & Firebase
+<br/> :memo: &nbsp; Studying: Runtime Bun, as framework HTTP Elysia and data base connection, ORM's like Drizzle.
 <br/> 💬 &nbsp;About me: I like technologies, gadgets, games like The Witcher, Legend of Zelda and all of Hideo Kojima.
 <br/> :email: &nbsp; Contact
 me: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoBezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-bezerra-ba9692128/)](https://www.linkedin.com/in/rodrigo-bezerra-ba9692128/)
